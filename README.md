@@ -5,7 +5,7 @@ Just some review exercises for java collections.
 Instead of writing a `main` and calling your methods, write unit
 tests for them instead (with jUnit asserts).
 
-> **a little extra challenge:** do 1-4 recursively + use method-level generics (for 2-4 only)**
+> **a little extra challenge:** do 1-4 recursively + use method-level generics (for 2-4 only)
 
 ## 1) parentheses matching
 
